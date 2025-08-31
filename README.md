@@ -1,7 +1,4 @@
-====================================================================
-                 JUEGO GATO Y RATÓN 
-                 con Algoritmo Minimax
-====================================================================
+JUEGO GATO Y RATÓN con Algoritmo Minimax
 
 DESCRIPCIÓN
 -------------
@@ -98,7 +95,5 @@ CONDICIONES DE VICTORIA
 -------------------------
 • VICTORIA GATO: Posiciones coinciden
 • VICTORIA RATÓN: Sobrevive 10 turnos
+¡QUE COMIENCE LA CAZA! 🐭🏃💨🐱
 
-====================================================================
-                 ¡QUE COMIENCE LA CAZA! 🐭🏃💨🐱
-====================================================================
